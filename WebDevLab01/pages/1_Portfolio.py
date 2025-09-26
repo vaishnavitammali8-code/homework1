@@ -1,12 +1,12 @@
 import streamlit as st
-import info
+import info as inf
 import pandas as pd
 
 
 #About Me
 def about_me_section():
     st.header("About Me")
-    st.image(profile_picture, width = 200)
+    st.image(inf.profile_picture, width = 200)
     st.write(info.about_me)
     st.write('---')
 about_me_section()
