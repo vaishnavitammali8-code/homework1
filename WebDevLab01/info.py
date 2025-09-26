@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "Images\Vaishnavi_profile.jpg"
+profile_picture = "images\Vaishnavi_profile.jpg"
 about_me = "Hi I'm Vaishnavi Tammali! I am a second year neuroscience student at Georgia Institute of Technology. "
 
 
